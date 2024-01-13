@@ -1,0 +1,5 @@
+{
+    "email": {
+        "required": "Email is required"
+    }
+}
