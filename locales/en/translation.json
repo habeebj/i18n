@@ -3,7 +3,7 @@
         "header": "Welcome to the Application",
         "new_message_one": "You have one new message",
         "new_message_other": "You have {{count}} new message",
-        "message_female": "She says {{body}}",
-        "message_male": "He says {{body}}"
+        "message_content_female": "She says {{body}}",
+        "message_content_male": "He says {{body}}"
     }
 }
