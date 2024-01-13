@@ -1,0 +1,10 @@
+{
+    "main": {
+        "header": "Willkommen bei der Anwendung",
+        "new_message_zero": "Sie haben keine neue Nachricht",
+        "new_message_one": "Sie haben eine neue Nachricht",
+        "new_message_other": "Sie haben {{count}} neue Nachrichten",
+        "message_content_female": "Sie sagt {{body}}",
+        "message_content_male": "Er sagt {{body}}"
+    }
+}
